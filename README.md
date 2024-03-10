@@ -22,7 +22,8 @@
   <a href="https://linkedin.com/in/nafizahmedsargis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafizahmedsargis" height="30" width="40" /></a>
   <a href="https://fb.com/nafiz.ahmed.sargis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nafiz.ahmed.sargis" height="30" width="40" /></a>
   <a href="https://instagram.com/nafizahmedsargis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nafizahmedsargis" height="30" width="40" /></a>
-  <a href="sargis#7984" target="blank"> <img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="sargis#7984" height="30" width="40" /> </a>
+ <a href="https://discord.com/users/sargis#7984" target="_blank"> <img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" alt="sargis#7984" height="30" width="40" /> </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
